@@ -11,6 +11,7 @@ Este es el backend del proyecto **ToDoList**, una aplicación para gestionar tar
 
 ## 🛠️ Tecnologías utilizadas
 
+- JavaScript
 - Node.js
 - Express
 - Mongoose (MongoDB)
